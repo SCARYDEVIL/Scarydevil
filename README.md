@@ -12,7 +12,7 @@
 
 ## 🎧 current frequency
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=scarydevil68&cover_image=true&theme=tokyonight&show_offline=true)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31fc5bsajyrqdjmq7s6fiioopska&cover_image=true&theme=tokyonight&show_offline=true)
 
 ---
 
