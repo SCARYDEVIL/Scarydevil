@@ -2,25 +2,29 @@
 
 <div align="center">
 
-# !t iSn't
-### Trust is vulnerability.
-
-<img src="https://i.imgur.com/8Km9tLL.png" width="300"/>
+# ⚠️ SYSTEM BOOTING…
+### user detected • potential unknown
 
 </div>
 
 ---
 
-## 💡 Tip
+---
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=scarydevil68&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117)
+## 🎧 current frequency
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=scarydevil68&cover_image=true&theme=tokyonight&show_offline=true)
 
 ---
 
-## 🖥️ Terminal
+## 🖥️ console.log()
 
 ```bash
 $ whoami
 > YOUR_GITHUB_USERNAME
 
-$ echo "Trust is vulnerability that I can exploit"
+$ status
+> curious | learning | inconsistent | improving
+
+$ echo "started from zero"
+started from zero
