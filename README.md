@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**SCARYDEVIL/Scarydevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# !t iSn't
+### Trust is vulnerability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.imgur.com/8Km9tLL.png" width="300"/>
+
+</div>
+
+---
+
+## 💡 Tip
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=scarydevil68&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117)
+
+---
+
+## 🖥️ Terminal
+
+```bash
+$ whoami
+> YOUR_GITHUB_USERNAME
+
+$ echo "Trust is vulnerability that I can exploit"
