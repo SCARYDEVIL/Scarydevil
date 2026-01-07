@@ -1,10 +1,9 @@
-## Hi there 👋
+## NTG INTRESTING 
 
 <div align="center">
 
 # ⚠️ SYSTEM BOOTING…
-### user detected • potential unknown
-
+### user unknown 
 </div>
 
 ---
@@ -21,10 +20,10 @@
 
 ```bash
 $ whoami
-> YOUR_GITHUB_USERNAME
+> SCARYDEVIL68
 
 $ status
 > curious | learning | inconsistent | improving
 
-$ echo "started from zero"
-started from zero
+$ echo "NTG"
+NTG
