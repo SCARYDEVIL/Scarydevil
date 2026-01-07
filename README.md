@@ -13,9 +13,8 @@
 ## 🎧 current frequency
 
 
----
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31fc5bsajyrqdjmq7s6fiioopska&cover_image=true&theme=tokyonight&show_offline=true&cache_seconds=180)
-
+---
 ## 🖥️ console.log()
 
 ```bash
