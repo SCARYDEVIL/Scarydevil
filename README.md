@@ -16,7 +16,7 @@
 ---
 <sub> when i played </sub> 
 <br>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fc5bsajyrqdjmq7s6fiioopska&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1DB954&bar_color_cover=false&bar_style=high" />
+<img src="https://pin.it/2HLKOHKsN" />
 
 ---
 
